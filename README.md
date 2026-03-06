@@ -112,5 +112,6 @@ Other Libraries
 What should I code? Anything
 
 Create a Python function to calculate factorial
+
 Create a Python function to check if a number is prime
 
