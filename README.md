@@ -5,7 +5,7 @@ An AI-powered programming assistant built using **LangGraph, LangChain, and Llam
 The system follows an **agentic design pattern** where multiple AI agents collaborate to generate, analyze, and validate Python code automatically.
 
 ---
-Agent Design Pattern
+# Agent Design Pattern
 
 The system demonstrates an Agentic AI design pattern where multiple agents collaborate with specialized roles.
 
