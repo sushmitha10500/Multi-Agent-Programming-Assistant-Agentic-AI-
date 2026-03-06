@@ -22,7 +22,7 @@ Selects the best result
 
 This multi-agent architecture improves reliability and correctness compared to traditional LLM-based coding assistants.
 
-Key Technologies
+## Key Technologies
 
 LangGraph → Agent workflow orchestration
 
@@ -76,3 +76,19 @@ Example Queries
 Create a Python function to calculate factorial
 Create a Python function to check if a number is prime
 Write a Python program to sort a list using quicksort
+
+## 5.. Safety Features
+The system includes safeguards to ensure reliable execution.
+
+Execution Isolation
+Generated code is executed in an isolated process.
+
+Error Handling
+Runtime errors are captured and analyzed.
+
+Iteration Limits
+Maximum retry attempts prevent infinite loops.
+
+Logging
+Agent decisions and execution outputs are recorded.
+
